@@ -1,0 +1,5 @@
+{
+  "name": "Gold Investment Decision Maker",
+  "description": "A 24h gold investment tracker and decision maker that generates GitHub Actions scripts for automated alerts.",
+  "requestFramePermissions": []
+}
